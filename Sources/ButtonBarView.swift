@@ -23,6 +23,7 @@
 // THE SOFTWARE.
 
 import UIKit
+import UIKit
 
 public enum PagerScroll {
     case no
